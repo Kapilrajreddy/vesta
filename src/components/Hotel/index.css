@@ -1,0 +1,23 @@
+.hotel-graph-main-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.total-requests{
+    font-size:18px;
+    color:#666;
+    margin:0px;
+    text-align: center;
+}
+
+.total-department-list{
+    display:flex;
+    list-style-type: none;
+    font-size:14px !important;
+    flex-wrap: wrap;
+}
+.departement-text{
+    margin:0px;
+    font-size:14px;
+}
